@@ -1,0 +1,42 @@
+.npt {
+    margin-top: 730px;
+    width: 550px;
+    background-color: #161616;
+    height: 45px;
+    border: 1px solid rgb(136, 136, 136);
+    border-radius: 5px;
+    padding: 0 30px;
+    color: white;
+    outline: none;
+}
+.plus {
+    font-size: 14px;
+    color:  rgb(136, 136, 136);
+    position: relative;
+    right: 540px;
+    bottom: 2px;
+}
+
+
+.btm {
+    margin-top: 730px;
+    background-color: #161616;
+    height: 45px;
+    border: 1px solid rgb(136, 136, 136);
+    border-radius: 5px;
+    padding: 0 30px;
+    color: white;
+    outline: none;
+}
+
+.Arrow {
+    font-size: 14px;
+    color:  rgb(136, 136, 136);
+    position: relative;
+    right: 40px;
+    bottom: 2px;
+}
+
+.Arrow:hover {
+    color: white;
+}

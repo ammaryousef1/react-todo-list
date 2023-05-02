@@ -1,0 +1,23 @@
+.todo {
+    padding: 10px 30rem;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+
+}
+.delelte {
+    padding: 4px 10px;
+    background-color: white;
+    border: none;
+    border-radius: 50px;
+}
+@media screen and (max-width: 1189px){
+    .todo {
+        padding: 10px 10rem;
+    }
+}
+@media screen and (max-width: 600px){
+    .todo {
+        padding: 10px 5rem;
+    }
+}

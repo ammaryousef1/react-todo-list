@@ -1,0 +1,35 @@
+
+body {
+    display: flex; 
+    justify-content: center;
+    padding: 30px;
+    background-color: #161616;
+}
+
+/* .update-btn  {
+    margin-left: 10px;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100px;
+    margin-top: 10px;
+}
+
+.btn-all {
+ 
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+.btn-all-to {
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 10px;
+    border: none;
+    background-color: white;
+}
+.up-btn {
+    display: flex;
+    
+    justify-content: center
+} */
